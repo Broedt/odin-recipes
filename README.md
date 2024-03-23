@@ -1,1 +1,0 @@
-This is going to be my first Project but i somehow messed up setting up git, so it took me a while and im still not sure if everything is working out
