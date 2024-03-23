@@ -1,0 +1,1 @@
+This is the second try of setting this first Project up. First try i messed up git, fixed it then messed up my directoies and deleted everything to start from new. here we are
