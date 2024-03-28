@@ -1,0 +1,26 @@
+body {
+        background-color:  rgb(20, 47, 71);
+        color: antiquewhite;
+    }
+
+h1,h3 {color: rgb(139, 96, 15);}
+
+
+h1 {
+    font-size: 90px;
+    font-style: italic;
+    }
+
+h3 {
+    font-size: 50px;
+    font-style: oblique;
+}
+
+.centered {
+    text-align: center;
+    }
+
+ul li {color: rgb(237, 25, 14);}
+ol {color: green;}
+
+#i-am-yellow {color: yellow;}
